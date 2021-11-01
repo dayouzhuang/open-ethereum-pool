@@ -13,10 +13,10 @@ import (
 
 	"github.com/gorilla/mux"
 
-	"github.com/sammy007/open-ethereum-pool/policy"
-	"github.com/sammy007/open-ethereum-pool/rpc"
-	"github.com/sammy007/open-ethereum-pool/storage"
-	"github.com/sammy007/open-ethereum-pool/util"
+	"github.com/dayouzhuang/open-ethereum-pool/policy"
+	"github.com/dayouzhuang/open-ethereum-pool/rpc"
+	"github.com/dayouzhuang/open-ethereum-pool/storage"
+	"github.com/dayouzhuang/open-ethereum-pool/util"
 )
 
 type ProxyServer struct {
